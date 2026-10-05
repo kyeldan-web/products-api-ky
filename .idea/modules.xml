@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/products-api.iml" filepath="$PROJECT_DIR$/.idea/products-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products-api/products-api.iml" filepath="$PROJECT_DIR$/products-api/products-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/products-api-ky.iml" filepath="$PROJECT_DIR$/.idea/products-api-ky.iml" />
     </modules>
   </component>
 </project>
